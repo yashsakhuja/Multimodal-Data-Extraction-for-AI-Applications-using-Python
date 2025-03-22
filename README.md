@@ -1,0 +1,1 @@
+# Multimodal-Data-Extraction-for-AI-Applications-using-Python
